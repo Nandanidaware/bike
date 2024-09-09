@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#container {
+    margin: 20px;
+}
+
+.btn {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#img-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    display: none;
+}
+#btn-all{
+    background-color: rgb(160, 160, 216);
+    color: white;
+}
